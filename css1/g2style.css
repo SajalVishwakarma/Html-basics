@@ -1,0 +1,91 @@
+.head{
+	text-align: center;
+	border: 2px solid red;
+	height: 50px;
+	padding: 1em;
+	background-color: black;
+	color: white;
+	font-size: 40px;
+	}
+
+
+.tab-1{
+	border: 2px solid #333333;
+	margin: 5px ;
+	padding: 10px;
+	width: 25%;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 20px;
+	-webkit-transition: 0.4s;
+}
+
+.tab-2{
+	border: 2px solid #333333;
+	margin: 5px ;
+	padding: 10px;
+	width: 25%;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 20px;
+	-webkit-transition: 0.4s;
+}
+
+.tab-3{
+	border: 2px solid #333333;
+	margin: 5px ;
+	padding: 10px;
+	width: 25%;
+	text-align: center;
+	font-family: 'Oswald';
+	font-size: 20px;
+	-webkit-transition: 0.4s;
+}
+
+.tab-1:hover{
+	background-color: #bfff80;
+}
+
+.tab-2:hover{
+	background-color: #bfff80;
+}
+
+.tab-3:hover{
+	background-color: #bfff80;
+}
+
+.side-container{
+	width: 100%;
+	display: flex;
+	
+
+}
+
+.row{
+	display: inline;
+}
+
+p {
+	font-family: 'Fresca', sans-serif;
+	font-size: 40px;
+	margin: 5px;
+}
+
+ol{
+	font-family: 'Fresca', sans-serif;
+	font-size: 40px;
+	margin: 15px;
+}
+
+.body{
+	background-color: #d98c8c; 
+}
+
+footer{
+	margin: 5px;
+	padding: 100px 0;
+}
+
+.comment{
+	font-size: 30px;
+}
